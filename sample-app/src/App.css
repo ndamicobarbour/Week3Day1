@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.jumbotron {
+  background-color: #B1F8F2;
+  height: 250px;
+  padding: 20px;
+  color: #1E1E24;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+a:hover {
+  color: white;
+}
+
+a {
+  background-color: #B1F8F2;
+  border: 2px solid white;
+}
+
+#footer {
+  background-color: #A1C6EA;
+  padding: 10px;
+  padding-bottom: 14px;
+}
+
+Card {
+  border: 50px;
+}
